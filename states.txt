@@ -1,0 +1,50 @@
+California,california
+Texas,texas
+Florida,florida
+New_York_(state),new york
+Pennsylvania,pennsylvania
+Illinois,illinois
+Ohio,ohio
+Georgia_(U.S._state),georgia
+North_Carolina,north carolina
+Michigan,michigan
+New_Jersey,new jersey
+Virginia,virginia
+Washington_(state),washington
+Arizona,arizona
+Massachusetts,massachusetts
+Tennessee,tennessee
+Indiana,indiana
+Missouri,missouri
+Maryland,maryland
+Wisconsin,wisconsin
+Colorado,colorado
+Minnesota,minnesota
+South_Carolina,south carolina
+Alabama,alabama
+Louisiana,louisiana
+Kentucky,kentucky
+Oregon,oregon
+Oklahoma,oklahoma
+Connecticut,connecticut
+Utah,utah
+Iowa,iowa
+Nevada,nevada
+Arkansas,arkansas
+Mississippi,mississippi
+Kansas,kansas
+New_Mexico,new mexico
+Nebraska,nebraska
+Idaho,idaho
+West_Virginia,west virginia
+Hawaii,hawaii
+New_Hampshire,new hampshire
+Maine,maine
+Montana,montana
+Rhode_Island,rhode island
+Delaware,delaware
+South_Dakota,south dakota
+North_Dakota,north dakota
+Alaska,alaska
+Vermont,vermont
+Wyoming,wyoming
